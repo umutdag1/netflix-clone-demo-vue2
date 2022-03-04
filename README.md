@@ -1,4 +1,4 @@
-# netflix
+# netflix-clone-demo-vue2
 
 > A Vue.js project
 
